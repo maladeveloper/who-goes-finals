@@ -1,18 +1,8 @@
 TOTAL_ROUNDS = 18
-MATCH_RESULTS = {
-    "loss": {
-        "points": 0,
-        "initial": "L"
-
-    },
-    "draw": {
-        "points": 1,
-        "initial": "D"
-    },
-    "win": {
-        "points": 3,
-        "initial": "W"
-    },
+RESULT_TO_POINTS_MAP = {
+    "LOSS": 0,
+    "DRAW": 1,
+    "WIN": 3
 }
 MAX_ROUNDS_CALCULATION = 18
 

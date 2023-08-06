@@ -1,14 +1,14 @@
-from constants import MATCH_RESULTS, MAX_ROUNDS_CALCULATION
+from constants import RESULT_TO_POINTS_MAP, MAX_ROUNDS_CALCULATION
 from itertools import combinations_with_replacement
 import json
 
 
 def main():
     results_initials = ''.join(
-        [match_results['initial'] for match_results in MATCH_RESULTS.values()]
+        [result[0] for result in RESULT_TO_POINTS_MAP.keys()]
     )
     initials_to_points_map = {
-        match_results['initial']: match_results['points'] for match_results in MATCH_RESULTS.values()
+        result[0]: points for result, points in RESULT_TO_POINTS_MAP.items()
     }
 
     rounds_to_results = {}
@@ -17,7 +17,7 @@ def main():
         result_combinations_w_points = create_combination_w_points(
             result_combinations_generator, initials_to_points_map
         )
-        rounds_to_results[rounds]= result_combinations_w_points
+        rounds_to_results[rounds] = result_combinations_w_points
 
     with open('precomputed_result_combinations.json', "w") as json_file:
         json.dump(rounds_to_results, json_file, indent=4)
