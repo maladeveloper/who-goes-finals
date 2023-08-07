@@ -7,3 +7,4 @@ affiliated_team = {
     "name": "Monash University Hockey Club",
     "current_points": 27
 }
+league = "PENN-D"

@@ -1,8 +1,9 @@
 import argparse
 import json
+import os
 from constants import TOTAL_ROUNDS, RESULT_TO_POINTS_MAP
-from input import current_round, opponent_team, affiliated_team
-from helpers import expand_combination, get_name_initials
+from input import current_round, opponent_team, affiliated_team, league
+from helpers import expand_combination, get_name_initials, print_to_file_and_console
 
 
 def main(result_combinations):
@@ -16,11 +17,16 @@ def main(result_combinations):
     affiliated_team_wins = 0
     affiliated_team_draws = 0
 
-    print(
+    results_fp = f"{league}_{affiliated_team_initials}_vs_{opponent_team_initials}.txt"
+    if os.path.exists(results_fp):
+        os.remove(results_fp)
+
+    print_to_file_and_console(
         f"Who goes finals?\n"
         f"With {rounds_remaining} more games to go the points for the teams are as follows:\n"
         f"{opponent_team['name']} ({opponent_team_initials}): {opponent_team['current_points']} points\n"
-        f"{affiliated_team['name']} ({affiliated_team_initials}): {affiliated_team['current_points']} points\n"
+        f"{affiliated_team['name']} ({affiliated_team_initials}): {affiliated_team['current_points']} points\n",
+        results_fp
     )
 
     for opponent_team_result in round_combinations:
@@ -39,21 +45,23 @@ def main(result_combinations):
                 final_result_str = f"{opponent_team_initials} and {affiliated_team_initials} DRAW."
                 affiliated_team_draws += 1
 
-            print(
+            print_to_file_and_console(
                 f"{opponent_team_initials} {expand_combination(opponent_combination, initial_to_result_map)} "
                 f"({opponent_points} points, {opponent_total} total) and "
                 f"{affiliated_team_initials} {expand_combination(chosen_combination, initial_to_result_map)} "
                 f"({chosen_points} points, {chosen_total} total) "
-                f"{final_result_str}"
+                f"{final_result_str}",
+                results_fp
             )
 
     total_possible_scenarios = len(round_combinations) ** 2
     affiliated_team_losses = total_possible_scenarios - affiliated_team_wins - affiliated_team_draws
-    print(
+    print_to_file_and_console(
         f"\nOut of {total_possible_scenarios} total scenarios "
         f"{affiliated_team['name']} goes through to finals {affiliated_team_wins} times, "
-        f"goes through on goal difference {affiliated_team_draws} times ",
-        f"and doesn't go finals {affiliated_team_losses} times."
+        f"goes through on goal difference {affiliated_team_draws} times "
+        f"and doesn't go finals {affiliated_team_losses} times.",
+        results_fp
     )
 
 
