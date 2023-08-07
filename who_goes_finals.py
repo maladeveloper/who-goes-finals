@@ -2,6 +2,7 @@ import argparse
 import json
 from constants import TOTAL_ROUNDS, RESULT_TO_POINTS_MAP
 from input import current_round, opponent_team, affiliated_team
+from helpers import expand_combination, get_name_initials
 
 
 def main(result_combinations):
@@ -9,23 +10,19 @@ def main(result_combinations):
     opponent_team_initials = get_name_initials(opponent_team["name"])
     rounds_remaining = TOTAL_ROUNDS - current_round + 1
     round_combinations = result_combinations[str(rounds_remaining)]
-
-    initial_to_result_map = {}
-
-    def expand_result_initial(initial):
-        try:
-            return initial_to_result_map[initial]
-        except KeyError:
-            for result in RESULT_TO_POINTS_MAP.keys():
-                if initial == result[0]:
-                    initial_to_result_map[initial] = result
-            return initial_to_result_map[initial]
-
-    def expand_combination(combination):
-        return '-'.join([expand_result_initial(initial) for initial in combination])
-
+    initial_to_result_map = {
+        result[0]: result for result in RESULT_TO_POINTS_MAP.keys()
+    }
     affiliated_team_wins = 0
     affiliated_team_draws = 0
+
+    print(
+        f"Who goes finals?\n"
+        f"With {rounds_remaining} more games to go the points for the teams are as follows:\n"
+        f"{opponent_team['name']} ({opponent_team_initials}): {opponent_team['current_points']} points\n"
+        f"{affiliated_team['name']} ({affiliated_team_initials}): {affiliated_team['current_points']} points\n"
+    )
+
     for opponent_team_result in round_combinations:
         for affiliated_team_result in round_combinations:
             opponent_combination, opponent_points = opponent_team_result
@@ -43,10 +40,10 @@ def main(result_combinations):
                 affiliated_team_draws += 1
 
             print(
-                f"{opponent_team_initials} {expand_combination(opponent_combination)} ({opponent_points} points, "
-                f"{opponent_total} total) and "
-                f"{affiliated_team_initials} {expand_combination(chosen_combination)} ({chosen_points} points, "
-                f"{chosen_total} total) "
+                f"{opponent_team_initials} {expand_combination(opponent_combination, initial_to_result_map)} "
+                f"({opponent_points} points, {opponent_total} total) and "
+                f"{affiliated_team_initials} {expand_combination(chosen_combination, initial_to_result_map)} "
+                f"({chosen_points} points, {chosen_total} total) "
                 f"{final_result_str}"
             )
 
@@ -54,14 +51,10 @@ def main(result_combinations):
     affiliated_team_losses = total_possible_scenarios - affiliated_team_wins - affiliated_team_draws
     print(
         f"\nOut of {total_possible_scenarios} total scenarios "
-        f"{affiliated_team['name']} wins {affiliated_team_wins}, "
-        f"draws {affiliated_team_draws} ",
-        f"and loses {affiliated_team_losses}."
+        f"{affiliated_team['name']} goes through to finals {affiliated_team_wins} times, "
+        f"goes through on goal difference {affiliated_team_draws} times ",
+        f"and doesn't go finals {affiliated_team_losses} times."
     )
-
-
-def get_name_initials(name):
-    return ''.join([word[0] for word in name.split()]).upper()
 
 
 if __name__ == "__main__":
