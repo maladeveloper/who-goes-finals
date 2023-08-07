@@ -22,10 +22,11 @@ def main(result_combinations):
         os.remove(results_fp)
 
     print_to_file_and_console(
-        f"Who goes finals?\n"
-        f"With {rounds_remaining} more games to go the points for the teams are as follows:\n"
+        f"Who goes finals?\n\n"
+        f"With {rounds_remaining} more games to go, the points for the teams are as follows:\n"
         f"{opponent_team['name']} ({opponent_team_initials}): {opponent_team['current_points']} points\n"
-        f"{affiliated_team['name']} ({affiliated_team_initials}): {affiliated_team['current_points']} points\n",
+        f"{affiliated_team['name']} ({affiliated_team_initials}): {affiliated_team['current_points']} points\n\n"
+        f"The following scenarios are possible:",
         results_fp
     )
 
@@ -50,7 +51,7 @@ def main(result_combinations):
                 f"({opponent_points} points, {opponent_total} total) and "
                 f"{affiliated_team_initials} {expand_combination(chosen_combination, initial_to_result_map)} "
                 f"({chosen_points} points, {chosen_total} total) "
-                f"{final_result_str}",
+                f"- {final_result_str}",
                 results_fp
             )
 

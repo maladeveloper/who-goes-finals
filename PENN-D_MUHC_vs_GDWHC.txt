@@ -1,107 +1,109 @@
 Who goes finals?
-With 3 more games to go the points for the teams are as follows:
+
+With 3 more games to go, the points for the teams are as follows:
 Greater Dandenong Warriors Hockey Club (GDWHC): 23 points
 Monash University Hockey Club (MUHC): 27 points
 
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) GDWHC and MUHC DRAW.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) GDWHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) GDWHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) GDWHC and MUHC DRAW.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) GDWHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) GDWHC and MUHC DRAW.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) GDWHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) GDWHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) GDWHC and MUHC DRAW.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) GDWHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) MUHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) GDWHC and MUHC DRAW.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) MUHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) GDWHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) GDWHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) GDWHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) GDWHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) GDWHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) MUHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) GDWHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) GDWHC and MUHC DRAW.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) MUHC WINS.
-GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC WIN-WIN-WIN (9 points, 36 total) MUHC WINS.
+The following scenarios are possible:
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC LOSS-LOSS-LOSS (0 points, 23 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC LOSS-LOSS-DRAW (1 points, 24 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC LOSS-LOSS-WIN (3 points, 26 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC LOSS-DRAW-DRAW (2 points, 25 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - GDWHC and MUHC DRAW.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC LOSS-DRAW-WIN (4 points, 27 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - GDWHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - GDWHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - GDWHC and MUHC DRAW.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC LOSS-WIN-WIN (6 points, 29 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC DRAW-DRAW-DRAW (3 points, 26 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - GDWHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - GDWHC and MUHC DRAW.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC DRAW-DRAW-WIN (5 points, 28 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - GDWHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - GDWHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - GDWHC and MUHC DRAW.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - GDWHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - MUHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - GDWHC and MUHC DRAW.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - MUHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC DRAW-WIN-WIN (7 points, 30 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-LOSS-LOSS (0 points, 27 total) - GDWHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-LOSS-DRAW (1 points, 28 total) - GDWHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-LOSS-WIN (3 points, 30 total) - GDWHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-DRAW-DRAW (2 points, 29 total) - GDWHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-DRAW-WIN (4 points, 31 total) - GDWHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC LOSS-WIN-WIN (6 points, 33 total) - MUHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC DRAW-DRAW-DRAW (3 points, 30 total) - GDWHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC DRAW-DRAW-WIN (5 points, 32 total) - GDWHC and MUHC DRAW.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC DRAW-WIN-WIN (7 points, 34 total) - MUHC WINS.
+GDWHC WIN-WIN-WIN (9 points, 32 total) and MUHC WIN-WIN-WIN (9 points, 36 total) - MUHC WINS.
 
 Out of 100 total scenarios Monash University Hockey Club goes through to finals 82 times, goes through on goal difference 6 times and doesn't go finals 12 times.
