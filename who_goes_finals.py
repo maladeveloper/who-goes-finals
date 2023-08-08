@@ -17,7 +17,7 @@ def main(result_combinations):
     affiliated_team_wins = 0
     affiliated_team_draws = 0
 
-    results_fp = f"{league}_{affiliated_team_initials}_vs_{opponent_team_initials}.txt"
+    results_fp = f"output/Round-{current_round}_{league}_{affiliated_team_initials}_vs_{opponent_team_initials}.txt"
     if os.path.exists(results_fp):
         os.remove(results_fp)
 

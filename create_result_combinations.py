@@ -19,7 +19,7 @@ def main():
         )
         rounds_to_results[rounds] = result_combinations_w_points
 
-    with open('precomputed_result_combinations.json', "w") as json_file:
+    with open('resources/precomputed_result_combinations.json', "w") as json_file:
         json.dump(rounds_to_results, json_file, indent=4)
 
 
